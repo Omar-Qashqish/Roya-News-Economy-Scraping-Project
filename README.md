@@ -28,9 +28,3 @@ This project contains a Python script designed to scrape economy-related article
 - Saved Excel File (`.xlsx`)
 - Inserted records into SQL Server database
 
-## 🚀 Current Status
-- This project is actively maintained and will continue to be enhanced with better data cleaning, error handling, and automation.
-
----
-
-> Feel free to use, modify, or integrate the script into your data pipelines!
