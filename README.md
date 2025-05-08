@@ -7,6 +7,8 @@ This project contains a Python script designed to scrape economy-related article
 - **Content**: A brief summary or the full text of the article.
 - **Image**: Link to the article's image.
 - **Link**: Direct link to the article page.
+- ✅ The script also downloads each article's image and saves it into a local folder.
+
 
 ## 📄 Sections Targeted:
 - Arabic Section: اقتصاد (Economy section)
