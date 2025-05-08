@@ -12,6 +12,8 @@ This project contains a Python script designed to scrape economy-related article
 - Arabic Section: اقتصاد (Economy section)
 - English Section: Economy
 
+✅ The script only fetches articles published within the last **24 hours**, ensuring that the collected data is always fresh and relevant.
+
 ## 🛠️ Technologies Used
 - Python
 - Requests
